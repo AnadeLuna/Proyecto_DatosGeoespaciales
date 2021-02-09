@@ -1,6 +1,6 @@
 # GeoSpatial Data Project
 
-![portada](.jpg)
+![portada](https://github.com/AnadeLuna/Proyecto_DatosGeoespaciales/blob/main/images/Oficinas-originales-oficina.jpg)
 
 ----------------------------
 
